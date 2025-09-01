@@ -26,14 +26,15 @@ This project demonstrates a scalable web application deployed on AWS using cloud
 5. Test the system end-to-end via S3 website
 
 ## Screenshots
-- S3 Website: [static website stored in s3 bucket - `screenshots/s3.png`]
-- ALB Targets:[ Alb name and details -`screenshots/elb1.png`
-               Show instance health status - `screenshots/elb2.png`]
-- ASG Instances: [Asg name& capacity overview - `screenshots/asg1.png`
-                 Avaibility zones& Activity  - `screenshots/asg2.png`]
-- EC2 Instances: `screenshots/ec2.png`
-- Ec2 Template: `screenshots/temp1.png`
+- S3 Website: [static website stored in s3 bucket - `screenshot/s3.png`]
+- ALB Targets:[ Alb name and details -`screenshot/elb1.png`
+               Show instance health status - `screenshot/elb2.png`]
+- ASG Instances: [Asg name& capacity overview - `screenshot/asg1.png`
+                 Avaibility zones& Activity  - `screenshot/asg2.png`]
+- EC2 Instances: `screenshot/ec2.png`
+- Ec2 Template: `screenshot/temp1.png`
 ## Notes
 - Frontend stored in cloud storage
 - ASG automatically scales EC2 instances based on load
 - No backend code required — fully cloud-based infrastructure
+
