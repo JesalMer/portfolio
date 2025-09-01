@@ -28,26 +28,27 @@ This project demonstrates a scalable web application deployed on AWS using cloud
 ## Project Screenshots  
 
 - **S3 Website**  
-  [Static website stored in S3 bucket](screenshots/s3.png)  
+  [Static website stored in S3 bucket](screenshot/s3.png)  
 
 - **ALB Targets**  
-  [ALB name and details](screenshots/elb1.png)  
-  [Show instance health status](screenshots/elb2.png)  
+  [ALB name and details](screenshot/elb1.png)  
+  [Show instance health status](screenshot/elb2.png)  
 
 - **ASG Instances**  
-  [ASG name & capacity overview](screenshots/asg1.png)  
-  [Availability zones & Activity](screenshots/asg2.png)  
+  [ASG name & capacity overview](screenshot/asg1.png)  
+  [Availability zones & Activity](screenshot/asg2.png)  
 
 - **EC2 Instances**  
-  [EC2 Instances](screenshots/ec2.png)  
+  [EC2 Instances](screenshot/ec2.png)  
 
 - **EC2 Template**  
-  [Launch Template](screenshots/temp1.png)  
+  [Launch Template](screenshot/temp1.png)  
 
 ## Notes
 - Frontend stored in cloud storage
 - ASG automatically scales EC2 instances based on load
 - No backend code required — fully cloud-based infrastructure
+
 
 
 
